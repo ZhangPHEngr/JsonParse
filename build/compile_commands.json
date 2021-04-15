@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Code/Json/build",
+  "command": "E:\\mingw64\\bin\\g++.exe  @CMakeFiles/demo.dir/includes_CXX.rsp -g -o CMakeFiles\\demo.dir\\main.cpp.obj -c D:\\Code\\Json\\main.cpp",
+  "file": "D:/Code/Json/main.cpp"
+}
+]
